@@ -1,3 +1,5 @@
+#Project basic commands
+
 # Numeric or text create automatically depends of the type
 number = 10  # print(type(number)) report type int
 number = 10.56  # print(type(number)) report type float
