@@ -1,4 +1,4 @@
-# Project basic commands
+# Project basic commands :)
 
 # Numeric or text create automatically depends of the type
 number = 10  # print(type(number)) report type int
