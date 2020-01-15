@@ -14,5 +14,5 @@
 a = float(input("Write a value: "))
 b = float(input("Write b value: "))
 answer = ((3 + 5 * 8) < 3 and ((-6 / 3 * 4)+2 < 2)) or (a > b)
-#               43 F                -8 T                   3 T
+#               43 F                -6 T                   T/F
 print(f"The answer is : {answer}")
