@@ -66,6 +66,22 @@ a %= 2  # module in assignment
 # Output by console
 by = "Tati"
 created = "January"
-print("Python course by {} created in {}".format(by, created))
-print(f"Python course by {by} created in {created}")
+# print("Python course by {} created in {}".format(by, created))
+# print(f"Python course by {by} created in {created}")
+
+# Incoming of data
+# name = input("Write your name: ")  # String
+# number = int(input("Write a number"))  # Int
+# float_ = float(input("now a number with . ")) # float
+
+# Integrated functions
+n = str(number)  # become to string
+n = bin(10)  # become to binary
+n = int("0b1010", 2)  # binary to int
+n = int("0xa", 16)  # hexadecimal to int
+n = abs(-8)  # Absolute value
+n = round(5.6)  # Round the number
+n = len("Tati")  # count the number of characters
+# print(n)
+
 
